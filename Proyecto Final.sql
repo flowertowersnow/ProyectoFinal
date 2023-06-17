@@ -67,3 +67,6 @@ CREATE TABLE Blog(
     resumen VARCHAR (30),
      PRIMARY KEY (articulo_interes)
 );
+
+INSERT INTO Blog VALUES 
+('cocina basada en plantas','basicos en la cocina');

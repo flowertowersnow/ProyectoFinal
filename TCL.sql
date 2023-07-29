@@ -31,7 +31,7 @@ INSERT INTO Repartos VALUES
 -- Savepoint dsps del registro #4
 SAVEPOINT savepoint_4;
 
--- Savepoint después del registro #8
+-- Savepoint dsps del registro #8
 SAVEPOINT savepoint_8;
 
 -- RELEASE SAVEPOINT savepoint_4;  -- Descomento para eliminar el savepoint 4

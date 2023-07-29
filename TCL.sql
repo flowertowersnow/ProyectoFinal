@@ -13,7 +13,7 @@ DELETE FROM Productos WHERE stock = 0;
 
 
 
--- Comenzar una transacción
+-- 2da transacción
 START TRANSACTION;
 
 -- Inserto nuevos registros en Repartos
